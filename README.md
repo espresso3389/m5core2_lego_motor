@@ -1,6 +1,6 @@
 # M5Stack Core2 with DC Motor Module
 
-An attempt to use [GBMQ-GM12BY20](https://www.amazon.com/GBMQ-GM12BY20-Micro-Reduction-Magnetic-Encoder/dp/B07J5MRHKH) on M5Stack Core2 with DC Motor Module.
+An attempt to use [GBMQ-GM12BY20](https://www.amazon.com/GBMQ-GM12BY20-Micro-Reduction-Magnetic-Encoder/dp/B07J5MRHKH) on [M5Stack Core2](https://m5stack.com/collections/m5-core/products/m5stack-core2-esp32-iot-development-kit) with [DC Motor Module](https://m5stack.com/products/lego-module).
 
 ![](extras/overview.jpg)
 
