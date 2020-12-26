@@ -22,10 +22,6 @@ From the original [LEGO_PLUS.ino](https://github.com/m5stack/M5Stack/blob/master
 
 Caveat: With these changes, the code seems working correctly but the encoder direction seems opposite to the motor direction. Should we swap motor PINs or just flip the encoder value's sign.
 
-## Demo Video
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Amazonで買った安いエンコーダ付きモーターをレゴEV3モーターの代わりにMStack5 Core2に接続して使う。理屈は簡単でもI2Cのピンが変わると割と面倒だった。<a href="https://t.co/AGvIFxEt8g">https://t.co/AGvIFxEt8g</a> <a href="https://t.co/350EzfS4nG">pic.twitter.com/350EzfS4nG</a></p>&mdash; Takashi Kawasaki (@espresso3389) <a href="https://twitter.com/espresso3389/status/1342703981588451333?ref_src=twsrc%5Etfw">December 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 # Appendix
 
 ## GBMQ-GM12BY20 original connector PIN layout
